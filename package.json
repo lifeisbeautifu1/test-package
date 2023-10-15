@@ -5,5 +5,9 @@
   "files": [
     "dist/**/*"
   ],
-  "main": "./dist/palette.json"
+  "main": "./dist/palette.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lifeisbeautifu1/test-package"
+  }
 }
