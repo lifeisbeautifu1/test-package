@@ -8,6 +8,6 @@
   "main": "./dist/palette.json",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lifeisbeautifu1/test-package"
+    "url": "git+https://github.com/lifeisbeautifu1/test-package.git"
   }
 }
